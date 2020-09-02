@@ -6,6 +6,7 @@
 import React, { Component } from "react";
 import Item from "./components/Item";
 
+//redefine App component to render a list
 class App extends Component {
   constructor() {
     super();
